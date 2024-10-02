@@ -9,6 +9,7 @@ My main interests are:
 Contact me at:
 - https://adrianogratani.vercel.app/
 - adriano.gratani1@gmail.com
+- I don't use/have social media.
 
 
 
