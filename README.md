@@ -2,8 +2,8 @@ Italian Frontend Developer.
 
 I like to:
 - Explain every process behind what appears on the screen, in details, with no gibberish;
-- JavaScript and Typescript;
-- NextJs frameworks, and ReactJs library;
+- Shape my imagination using JavaScript and Typescript;
+- Create somthing original in NextJs frameworks, and ReactJs library;
 - Learn how to code (and apply) Algorithms and DataStructures;
 - the C language and Operative Systems (in the spare time...);
 
