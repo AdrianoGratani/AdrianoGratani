@@ -1,10 +1,10 @@
 Italian Frontend Developer. 
 
-My main interests are:
-- Explaining process behind what appears on the screen, in details, with no gibberish;
+I like to:
+- Explain every process behind what appears on the screen, in details, with no gibberish;
 - JavaScript and Typescript;
 - NextJs frameworks, and ReactJs library;
-- Algorithms and DataStructures;
+- Learn how to code (and apply) Algorithms and DataStructures;
 - the C language and Operative Systems (in the spare time...);
 
 Contact me at:
